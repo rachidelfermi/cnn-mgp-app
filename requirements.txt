@@ -1,0 +1,4 @@
+astunparse==1.6.3
+google-auth-oauthlib==0.4.1
+gunicorn==20.0.4
+tensorboard-plugin-wit==1.7.0
